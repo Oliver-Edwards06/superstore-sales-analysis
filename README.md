@@ -4,7 +4,7 @@ This is a project I did looking at 4 years of order data from the Sample Superst
 
 ## What this is about
 
-Basically the question I kept coming back to was: is high sales actually a good thing here, or is it hiding some categories that are quietly losing money? It turns out its a bit of both. I also built a small classification model at the end to predict if an order will be profitable, mainly because I wanted to try it and see how far discount alone could get me.
+The question I kept coming back to was: is high sales actually a good thing here, or is it hiding some categories that are quietly losing money? It turns out its a bit of both. I also built a small classification model at the end to predict if an order will be profitable, mainly because I wanted to try it and see how far discount alone could get me.
 
 ## Dataset
 
